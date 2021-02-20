@@ -1,13 +1,3 @@
-# -*- coding: utf-8 -*-
-
-# Hackintosh5 is gay
-
-# API author: @mishase
-# Module author: @mishase, @rf0x1d
-# Special thanks to: @h3xcode
-
-# requires: Pillow requests pycryptodome 
-
 import logging
 from .. import loader, utils
 import telethon
